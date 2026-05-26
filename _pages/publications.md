@@ -6,11 +6,11 @@ author_profile: true
 
 ## Journal Articles
 
-**J4**. PG Arauz, G Garcia, J Llerena, M Boroji, **V Danesh**, I Kao, "[3-Dimensional Kinematics and Kinetics of the Snatch in Elite and Varsity Weightlifters](https://doi.org/10.1016/j.jbiomech.2025.112625)," *Journal of Biomechanics*, 183, 112625, 2025.
+**J3**. PG Arauz, G Garcia, J Llerena, M Boroji, **V Danesh**, I Kao, "[3-Dimensional Kinematics and Kinetics of the Snatch in Elite and Varsity Weightlifters](https://doi.org/10.1016/j.jbiomech.2025.112625)," *Journal of Biomechanics*, 183, 112625, 2025.
 
-**J3**. M Boroji†, **V Danesh**†, D Barrera, E Lee, PG Arauz, RF Farrell, et al., "[Ex-vivo Raman Spectroscopy and AI-Based Classification of Soft Tissue Sarcomas](https://doi.org/10.1371/journal.pone.0330618)," *PLoS ONE*, 20(9), e0330618, 2025.
+**J2**. M Boroji†, **V Danesh**†, D Barrera, E Lee, PG Arauz, RF Farrell, et al., "[Ex-vivo Raman Spectroscopy and AI-Based Classification of Soft Tissue Sarcomas](https://doi.org/10.1371/journal.pone.0330618)," *PLoS ONE*, 20(9), e0330618, 2025.
 
-**J2**. **V Danesh**, P Arauz, M Boroji, A Zhu, M Cottone, E Gould, FA Khan, I Kao, "[Improved Accuracy in Pelvic Tumor Resections Using a Real-Time Vision-Guided Surgical System](https://doi.org/10.1002/jor.26111)," *Journal of Orthopaedic Research*, 2025.
+**J1**. **V Danesh**, P Arauz, M Boroji, A Zhu, M Cottone, E Gould, FA Khan, I Kao, "[Improved Accuracy in Pelvic Tumor Resections Using a Real-Time Vision-Guided Surgical System](https://doi.org/10.1002/jor.26111)," *Journal of Orthopaedic Research*, 2025.
 
 ## Conference Papers
 
