@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV (PDF)</a></p>
+
 Education
 ======
 * PhD in Mechanical Engineering (Minor in Computer Engineering), Stony Brook University, 2023–present
