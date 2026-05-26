@@ -9,6 +9,8 @@ redirect_from:
 
 I am a PhD candidate in Mechanical Engineering at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Imin Kao](https://me.stonybrook.edu/people/faculty/Kao_Imin.html). My research develops AI-driven diagnostic and surgical tools to make precision cancer care faster, cheaper, and more accessible—especially in underserved settings.
 
+Contact: [vahid.danesh@stonybrook.edu](mailto:vahid.danesh@stonybrook.edu)
+
 Precision cancer care depends on two challenging steps: accurate diagnosis and complete tumor removal with negative margins. Frozen section is slow and subjective, and complex resections require expertise concentrated at high-volume academic centers. My research addresses both gaps through (1) an in-vivo Raman spectroscopic system for real-time optical biopsy and (2) a human-robot collaborative platform that mathematically enforces the resection plan while the surgeon retains full authority.
 
 Education

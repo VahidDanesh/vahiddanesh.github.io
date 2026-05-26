@@ -22,12 +22,12 @@ I led model development and training for a PyTorch ResNet pipeline that classifi
 
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/average_spectra.png" width=auto height=auto alt="Average Raman spectra by tissue type"></td>
-    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/cnn.png" width=auto height=auto alt="CNN architecture"></td>
+    <td><img src="/research/assets/average_spectra.png" width=auto height=auto alt="Average Raman spectra by tissue type"></td>
+    <td><img src="/research/assets/cnn.png" width=auto height=auto alt="CNN architecture"></td>
   </tr>
 </table>
 <center>
-  <img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/eval.png" width=auto height=auto alt="Classification evaluation results">
+  <img src="/research/assets/eval.png" width=auto height=auto alt="Classification evaluation results">
 </center>
 
 **Publication:**
@@ -42,7 +42,7 @@ I validated a vision-guided modular jig system that projects preoperatively plan
 
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/pelvic.png" width=auto height=auto alt="Vision-guided pelvic tumor resection system"></td>
+    <td><img src="/research/assets/pelvic.png" width=auto height=auto alt="Vision-guided pelvic tumor resection system"></td>
   </tr>
 </table>
 
@@ -62,8 +62,8 @@ I developed a complete manipulation pipeline in the Genesis physics-based simula
 
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/VahidDanesh/pandaSim/master/examples/videos/v3.gif" height="250" alt="Cylinder reorientation in PandaSim"></td>
-    <td><img src="https://raw.githubusercontent.com/VahidDanesh/pandaSim/master/examples/videos/v5.gif" height="250" alt="Cuboid reorientation in PandaSim"></td>
+    <td><img src="/research/assets/v1.gif" height="250" alt="Object reorientation in PandaSim"></td>
+    <td><img src="/research/assets/v4.gif" height="250" alt="Object reorientation in PandaSim"></td>
   </tr>
 </table>
 
