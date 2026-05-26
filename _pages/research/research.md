@@ -57,8 +57,15 @@ Building on vision-guided navigation, this work pairs the surgeon with a collabo
 
 ## Robotic Manipulation
 
-### [PandaSim](https://github.com/VahidDanesh/pandaSim): Physics-Based Dexterous Manipulation with Screw Motion Planning
-I developed a complete manipulation pipeline in the Genesis physics-based simulator using a Franka Emika Panda robot. The system integrates geometry extraction, screw motion planning, and resolved-rate motion control. Finger-level rotational degrees of freedom enhance dexterity, achieving a 96% object reorientation success rate.
+### [PandaSim](/pandaSim/): Physics-Based Dexterous Manipulation with Screw Motion Planning
+I developed a complete manipulation pipeline in the Genesis physics-based simulator using a Franka Emika Panda robot. The system integrates geometry extraction, screw motion planning, and resolved-rate motion control. Finger-level rotational degrees of freedom enhance dexterity, achieving a 96% object reorientation success rate. See the [full project page](/pandaSim/) or [GitHub repository](https://github.com/VahidDanesh/pandaSim).
+
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/VahidDanesh/pandaSim/master/examples/videos/v3.gif" height="250" alt="Cylinder reorientation in PandaSim"></td>
+    <td><img src="https://raw.githubusercontent.com/VahidDanesh/pandaSim/master/examples/videos/v5.gif" height="250" alt="Cuboid reorientation in PandaSim"></td>
+  </tr>
+</table>
 
 **Publication:**
 - M. Boroji†, **V. Danesh**†, I. Kao, A. Fakhari, "[Motion Planning for Object Manipulation by Edge-Rolling](https://doi.org/10.1109/IROS58592.2024.10802581)," *IEEE/RSJ IROS*, 2024.
