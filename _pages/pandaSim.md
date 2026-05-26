@@ -41,12 +41,8 @@ Object reorientation using environmental contact and finger-level rotational sli
 
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/VahidDanesh/pandaSim/master/examples/videos/v3.gif" height="250" alt="Cylinder reorientation"></td>
-    <td><img src="https://raw.githubusercontent.com/VahidDanesh/pandaSim/master/examples/videos/v5.gif" height="250" alt="Cuboid reorientation"></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/VahidDanesh/pandaSim/master/examples/videos/v4.gif" height="250" alt="Bottle reorientation"></td>
-    <td><img src="https://raw.githubusercontent.com/VahidDanesh/pandaSim/master/examples/videos/v1.gif" height="250" alt="Multi-object reorientation"></td>
+    <td><img src="/images/research/v1.gif" height="250" alt="Object reorientation in PandaSim"></td>
+    <td><img src="/images/research/v4.gif" height="250" alt="Object reorientation in PandaSim"></td>
   </tr>
 </table>
 
