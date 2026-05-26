@@ -15,9 +15,7 @@ Education
 ======
 * PhD in Mechanical Engineering (Minor in Computer Engineering), Stony Brook University, 2023–present
   * Research: AI-Driven Optical Biopsy and Human-Robot Collaborative Resection for Accessible Cancer Care
-  * GPA: 3.98/4.00
 * BS in Aerospace Engineering, Sharif University of Technology, 2015–2020
-  * GPA: 3.68/4.00
 
 News
 ======
@@ -26,4 +24,4 @@ News
 * May 2025: Our paper "[Improved Accuracy in Pelvic Tumor Resections Using a Real-Time Vision-Guided Surgical System](https://doi.org/10.1002/jor.26111)" was published in the *Journal of Orthopaedic Research*.
 * Spring 2024: Awarded PhD Works Awards for Career Exploration (ACE), Stony Brook University.
 * October 2024: Our paper "[Motion Planning for Object Manipulation by Edge-Rolling](https://doi.org/10.1109/IROS58592.2024.10802581)" was presented at *IROS 2024*.
-* 2019: **1st Place**, AIAA Student Engine Design Competition.
+* 2019: **1st Place**, "[AIAA Student Engine Design Competition](https://aiaa.org/wp-content/uploads/2024/12/1st-place-engine-design.pdf)".
