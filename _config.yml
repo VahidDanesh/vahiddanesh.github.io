@@ -12,17 +12,17 @@ site_theme               : "default"
 title                    : "Vahid Danesh"
 title_separator          : "-"
 name                     : &name "Vahid Danesh"
-description              : &description "PhD candidate in Mechanical Engineering at Stony Brook University. Research on AI-driven optical biopsy and human-robot collaborative cancer surgery."
+description              : &description "PhD student in Mechanical Engineering at Stony Brook University. Research on AI-driven optical biopsy and human-robot collaborative cancer surgery."
 url                      : https://vahiddanesh.github.io
 baseurl                  : ""
 repository               : "VahidDanesh/VahidDanesh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Vahid Danesh"
   pronouns         :
-  bio              : "PhD Candidate, Graduate Research Assistant"
+  bio              : "PhD Student, Graduate Research Assistant"
   location         : "Stony Brook, NY"
   employer         : "Stony Brook University"
   uri              :
