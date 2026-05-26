@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Mechanical Engineering at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Imin Kao](https://me.stonybrook.edu/people/faculty/Kao_Imin.html). My research develops AI-driven diagnostic and surgical tools to make precision cancer care faster, cheaper, and more accessible—especially in underserved settings.
+I am a PhD candidate in Mechanical Engineering at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Imin Kao](https://me.stonybrook.edu/people/faculty/Kao_Imin.html). My research focuses on developing AI-driven diagnostic and surgical tools to make precision cancer care faster, cheaper, and more accessible.
 
 Contact: [vahid.danesh@stonybrook.edu](mailto:vahid.danesh@stonybrook.edu)
 
