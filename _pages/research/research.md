@@ -1,0 +1,64 @@
+---
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+## AI-Driven Optical Biopsy
+
+### In-Vivo Raman Spectroscopy for Real-Time Skin Cancer Diagnosis (Ongoing)
+Frozen section analysis is the current standard for intraoperative margin assessment, but it is slow, subjective, and not always available outside major cancer centers. This project develops a handheld in-vivo Raman spectroscopic probe paired with deep learning models to give surgeons objective, real-time tissue characterization at the point of care. Skin cancer is the first clinical target, with planned extension to sarcoma margin assessment.
+
+The system collects molecular fingerprint data from tissue in seconds and returns a diagnostic readout alongside conventional pathology workflows. The goal is to reduce reliance on invasive biopsies and make optical biopsy practical in community hospitals and under-resourced regions.
+
+**Related Presentations:**
+- R. Basak, **V. Danesh**, M. Boroji, I. Kao, X. Qian, T. Zhang, et al., "[Skin Lesion Subtype Classification Using Lesion and Border Radiomic Features](https://aapm.confex.com/aapm/2025am/meetingapp.cgi/Paper/19470)," *AAPM 67th Annual Meeting*, 2025.
+- M. Boroji, **V. Danesh**, P. Prasanna, J. Kim, X. Qian, M. Khari, et al., "[Convolutional Neural Network Attention-Guided Segmentation to More Accurately Identify the Edges of Benign and Malignant Skin Tumors](https://aapm.confex.com/aapm/2024am/meetingapp.cgi/Paper/13085)," *AAPM 66th Annual Meeting*, 2024.
+
+<hr>
+
+### Ex-Vivo Raman Spectroscopy and AI-Based Classification of Soft Tissue Sarcomas
+I led model development and training for a PyTorch ResNet pipeline that classifies soft tissue sarcomas from Raman spectra. We designed a preprocessing, denoising, and classification framework for 286,672 spectra from seven patients, achieving 97.1% accuracy across eight tissue types. A clinical alert metric yielded a 1.46% malignant misclassification rate—supporting Raman spectroscopy as a fast, non-invasive alternative to conventional margin assessment.
+
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/average_spectra.png" width=auto height=auto alt="Average Raman spectra by tissue type"></td>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/cnn.png" width=auto height=auto alt="CNN architecture"></td>
+  </tr>
+</table>
+<center>
+  <img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/eval.png" width=auto height=auto alt="Classification evaluation results">
+</center>
+
+**Publication:**
+- M. Boroji†, **V. Danesh**†, D. Barrera, E. Lee, PG Arauz, RF Farrell, et al., "[Ex-vivo Raman Spectroscopy and AI-Based Classification of Soft Tissue Sarcomas](https://doi.org/10.1371/journal.pone.0330618)," *PLoS ONE*, 20(9), e0330618, 2025.
+
+<hr>
+
+## Surgical Navigation and Human-Robot Collaboration
+
+### Vision-Guided Surgical Navigation for Pelvic Tumor Resections
+I validated a vision-guided modular jig system that projects preoperatively planned osteotomy lines directly onto the surgical site for real-time intraoperative bone resection. The system achieved sub-millimeter resection accuracy in pelvic tumor cases, improving the surgeon's ability to replicate the preoperative plan and maintain adequate surgical margins.
+
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MahiBoroji/MahiBoroji.github.io/master/_pages/research/pelvic.png" width=auto height=auto alt="Vision-guided pelvic tumor resection system"></td>
+  </tr>
+</table>
+
+**Publications:**
+- **V. Danesh**, P. Arauz, M. Boroji, A. Zhu, M. Cottone, E. Gould, FA Khan, I. Kao, "[Improved Accuracy in Pelvic Tumor Resections Using a Real-Time Vision-Guided Surgical System](https://doi.org/10.1002/jor.26111)," *Journal of Orthopaedic Research*, 2025.
+- G. He, **V. Danesh**, M. Boroji, A. Kermanian, P. Arauz, FA Khan, I. Kao, "[Real-Time, Vision-Guided Orthopedic Surgery for Wide Resection of Primary Bone Sarcomas](https://doi.org/10.1016/B978-0-443-13912-3.00033-6)," *Handbook of Robotic and Image-Guided Surgery*, pp. 633–644, Elsevier, 2026.
+
+### Human-Robot Collaborative Resection Platform (Ongoing)
+Building on vision-guided navigation, this work pairs the surgeon with a collaborative robotic platform for complex sarcoma resections. The resection plan is expressed mathematically and enforced by an admittance controller, while the surgeon leads the cut and retains full authority. The aim is to democratize high-quality sarcoma care across community hospitals that lack dedicated orthopedic oncology teams.
+
+<hr>
+
+## Robotic Manipulation
+
+### [PandaSim](https://github.com/VahidDanesh/pandaSim): Physics-Based Dexterous Manipulation with Screw Motion Planning
+I developed a complete manipulation pipeline in the Genesis physics-based simulator using a Franka Emika Panda robot. The system integrates geometry extraction, screw motion planning, and resolved-rate motion control. Finger-level rotational degrees of freedom enhance dexterity, achieving a 96% object reorientation success rate.
+
+**Publication:**
+- M. Boroji†, **V. Danesh**†, I. Kao, A. Fakhari, "[Motion Planning for Object Manipulation by Edge-Rolling](https://doi.org/10.1109/IROS58592.2024.10802581)," *IEEE/RSJ IROS*, 2024.
